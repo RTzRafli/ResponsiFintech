@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Responsi_Fintech_Fix_Aamiin.iml" filepath="$PROJECT_DIR$/.idea/modules/Responsi_Fintech_Fix_Aamiin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Responsi_Fintech_Fix_Aamiin.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Responsi_Fintech_Fix_Aamiin.app.iml" />
+    </modules>
+  </component>
+</project>
