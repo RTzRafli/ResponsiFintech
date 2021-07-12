@@ -7,25 +7,25 @@
 
     <fragment
         android:id="@+id/navigation_home"
-        android:name="com.arhakim.fintechresponsi.fragment.HomeFragment"
+        android:name="com.ahmadrafli.fintechresponsi.FragmentTampilan.HomeFragment"
         android:label="@string/title_home"
         tools:layout="@layout/fragment_home" />
 
     <fragment
         android:id="@+id/navigation_payment"
-        android:name="com.arhakim.fintechresponsi.fragment.PaymentFragment"
+        android:name="com.ahmadrafli.fintechresponsi.FragmentTampilan.PaymentFragment"
         android:label="@string/title_payment"
         tools:layout="@layout/fragment_payment" />
 
     <fragment
         android:id="@+id/navigation_history"
-        android:name="com.arhakim.fintechresponsi.fragment.HistoryFragment"
+        android:name="com.ahmadrafli.fintechresponsi.FragmentTampilan.HistoryFragment"
         android:label="@string/title_history"
         tools:layout="@layout/fragment_history" />
 
     <fragment
         android:id="@+id/navigation_setting"
-        android:name="com.arhakim.fintechresponsi.fragment.SettingFragment"
+        android:name="com.ahmadrafli.fintechresponsi.FragmentTampilan.SettingFragment"
         android:label="@string/title_setting"
         tools:layout="@layout/fragment_setting" />
 

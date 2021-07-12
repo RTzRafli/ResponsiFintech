@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Responsi_Fintech_Fix_Aamiin.iml" filepath="$PROJECT_DIR$/.idea/modules/Responsi_Fintech_Fix_Aamiin.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Responsi_Fintech_Fix_Aamiin.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Responsi_Fintech_Fix_Aamiin.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Fintech_Responsi_Rafli.iml" filepath="$PROJECT_DIR$/.idea/modules/Fintech_Responsi_Rafli.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Fintech_Responsi_Rafli.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Fintech_Responsi_Rafli.app.iml" />
     </modules>
   </component>
 </project>

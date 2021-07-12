@@ -11,10 +11,8 @@
     <ImageView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:layout_centerHorizontal="true"
-        android:layout_centerVertical="true"
         android:backgroundTint="#FFFFFF"
-        android:scaleType="centerCrop"
-        android:src="@drawable/wall_0"/>
+        android:scaleType="fitCenter"
+        android:src="@drawable/splashscreen1" />
 
 </RelativeLayout>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="com.arhakim.fintechresponsi">
+    package="com.ahmadrafli.fintechresponsi">
 
     <application
         android:allowBackup="true"
@@ -10,12 +10,12 @@
         android:roundIcon="@mipmap/ic_icon_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name="com.arhakim.fintechresponsi.menu.InputKodeActivity"></activity>
-        <activity android:name="com.arhakim.fintechresponsi.menu.PaymentActivity" />
-        <activity android:name="com.arhakim.fintechresponsi.menu.HistoryActivity" />
-        <activity android:name="com.arhakim.fintechresponsi.menu.AccountActivity" />
+        <activity android:name="com.ahmadrafli.fintechresponsi.MenuTampilan.InputKodeActivity"></activity>
+        <activity android:name="com.ahmadrafli.fintechresponsi.MenuTampilan.PaymentActivity" />
+        <activity android:name="com.ahmadrafli.fintechresponsi.MenuTampilan.HistoryActivity" />
+        <activity android:name="com.ahmadrafli.fintechresponsi.MenuTampilan.AccountActivity" />
         <activity
-            android:name="com.arhakim.fintechresponsi.SplashScreen"
+            android:name="com.ahmadrafli.fintechresponsi.SplashScreen"
             android:configChanges="orientation|keyboardHidden|screenSize">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -24,7 +24,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.arhakim.fintechresponsi.autentikasi.LoginActivity"
+            android:name="com.ahmadrafli.fintechresponsi.Authentication.LoginActivity"
             android:label="@string/app_name"
             android:theme="@style/AppTheme">
             <intent-filter>
@@ -34,17 +34,17 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.arhakim.fintechresponsi.autentikasi.RegisterActivity"
+            android:name="com.ahmadrafli.fintechresponsi.Authentication.RegisterActivity"
             android:label="@string/app_name"
             android:theme="@style/AppTheme" />
         <activity
-            android:name="com.arhakim.fintechresponsi.autentikasi.ForgetActivity"
+            android:name="com.ahmadrafli.fintechresponsi.Authentication.ForgetActivity"
             android:label="FORGET"
             android:theme="@style/AppTheme" />
         <activity
-            android:name="com.arhakim.fintechresponsi.MainActivity"
+            android:name="com.ahmadrafli.fintechresponsi.MainActivity"
             android:label="Homeskrin"
-            android:theme="@style/Theme.ResponsiFintechFixAamiin" />
+            android:theme="@style/Theme.RafliFintechResponsi" />
     </application>
 
 </manifest>

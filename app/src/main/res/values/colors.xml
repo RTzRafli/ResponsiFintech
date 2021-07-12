@@ -2,9 +2,9 @@
 <resources>
 
     <!--default theme color-->
-    <color name="colorPrimary">#0bba8e</color>
-    <color name="colorPrimaryDark">#21f1bd</color>
-    <color name="colorAccent">#0ac99a</color>
+    <color name="colorPrimary">#03A9F4</color>
+    <color name="colorPrimaryDark">#2196F3</color>
+    <color name="colorAccent">#6FAFCC</color>
     <color name="colorBackgroundLight">#FFFFFF</color>
 
     <!--dark theme color-->

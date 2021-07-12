@@ -1,4 +1,4 @@
-package com.arhakim.fintechresponsi;
+package com.ahmadrafli.fintechresponsi;
 import android.content.Intent;
 import android.os.Bundle;
 import android.os.Handler;
@@ -6,7 +6,8 @@ import android.view.Window;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.arhakim.fintechresponsi.autentikasi.LoginActivity;
+import com.ahmadrafli.fintechresponsi.Authentication.LoginActivity;
+
 
 public class SplashScreen extends AppCompatActivity {
 

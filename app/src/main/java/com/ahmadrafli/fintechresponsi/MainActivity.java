@@ -1,4 +1,4 @@
-package com.arhakim.fintechresponsi;
+package com.ahmadrafli.fintechresponsi;
 
 import android.app.AlertDialog;
 import android.content.DialogInterface;
@@ -10,12 +10,13 @@ import android.view.MenuItem;
 import android.view.View;
 import android.widget.ImageButton;
 
-import com.arhakim.fintechresponsi.historyrecyclerview.Distro;
-import com.arhakim.fintechresponsi.historyrecyclerview.DistroAdapter;
-import com.arhakim.fintechresponsi.historyrecyclerview.DistroData;
-import com.arhakim.fintechresponsi.menu.AccountActivity;
-import com.arhakim.fintechresponsi.menu.HistoryActivity;
-import com.arhakim.fintechresponsi.menu.PaymentActivity;
+
+import com.ahmadrafli.fintechresponsi.HistoryTampilan.Distro;
+import com.ahmadrafli.fintechresponsi.HistoryTampilan.DistroAdapter;
+import com.ahmadrafli.fintechresponsi.HistoryTampilan.DistroData;
+import com.ahmadrafli.fintechresponsi.MenuTampilan.AccountActivity;
+import com.ahmadrafli.fintechresponsi.MenuTampilan.HistoryActivity;
+import com.ahmadrafli.fintechresponsi.MenuTampilan.PaymentActivity;
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 import com.google.zxing.integration.android.IntentIntegrator;
 import com.google.zxing.integration.android.IntentResult;
