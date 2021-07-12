@@ -35,7 +35,7 @@
                 android:layout_marginRight="5dp"
                 android:layout_gravity="center"
                 android:scaleType="fitXY"
-                android:src="@drawable/p_commendatore" />
+                android:src="@drawable/aa" />
 
             <LinearLayout
                 android:layout_width="match_parent"

@@ -1,0 +1,426 @@
+[
+    {
+        "merged": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\build\\intermediates\\res\\merged\\debug\\menu_appbar.xml.flat",
+        "source": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\src\\main\\res\\menu\\appbar.xml"
+    },
+    {
+        "merged": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_iconn.png.flat",
+        "source": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_iconn.png"
+    },
+    {
+        "merged": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_edt_password.png.flat",
+        "source": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\src\\main\\res\\drawable-v24\\ic_edt_password.png"
+    },
+    {
+        "merged": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_setting_round.png.flat",
+        "source": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_setting_round.png"
+    },
+    {
+        "merged": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_icon_round.xml.flat",
+        "source": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_icon_round.xml"
+    },
+    {
+        "merged": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_splashscreen1.png.flat",
+        "source": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\src\\main\\res\\drawable\\splashscreen1.png"
+    },
+    {
+        "merged": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_dashboard_black_24dp.xml.flat",
+        "source": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\src\\main\\res\\drawable\\ic_dashboard_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_iconn.png.flat",
+        "source": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_iconn.png"
+    },
+    {
+        "merged": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_bg_bar.xml.flat",
+        "source": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\src\\main\\res\\drawable-v24\\bg_bar.xml"
+    },
+    {
+        "merged": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_wall_2.jpg.flat",
+        "source": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\src\\main\\res\\drawable\\wall_2.jpg"
+    },
+    {
+        "merged": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_icon_round.png.flat",
+        "source": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_icon_round.png"
+    },
+    {
+        "merged": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_home_black_24dp.xml.flat",
+        "source": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\src\\main\\res\\drawable\\ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_setting_round.xml.flat",
+        "source": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_setting_round.xml"
+    },
+    {
+        "merged": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_af.jpg.flat",
+        "source": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\src\\main\\res\\drawable\\af.jpg"
+    },
+    {
+        "merged": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register.xml.flat",
+        "source": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_stars.png.flat",
+        "source": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\src\\main\\res\\drawable-v24\\stars.png"
+    },
+    {
+        "merged": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_icon_round.png.flat",
+        "source": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_icon_round.png"
+    },
+    {
+        "merged": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_aa.jpg.flat",
+        "source": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\src\\main\\res\\drawable\\aa.jpg"
+    },
+    {
+        "merged": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_monetization_on_24.xml.flat",
+        "source": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\src\\main\\res\\drawable\\ic_baseline_monetization_on_24.xml"
+    },
+    {
+        "merged": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_wall_3.jpg.flat",
+        "source": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\src\\main\\res\\drawable\\wall_3.jpg"
+    },
+    {
+        "merged": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_home.xml.flat",
+        "source": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\src\\main\\res\\layout\\item_home.xml"
+    },
+    {
+        "merged": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_setting.png.flat",
+        "source": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_setting.png"
+    },
+    {
+        "merged": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_icon_round.png.flat",
+        "source": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_icon_round.png"
+    },
+    {
+        "merged": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_success.png.flat",
+        "source": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\src\\main\\res\\drawable-v24\\success.png"
+    },
+    {
+        "merged": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\build\\intermediates\\res\\merged\\debug\\navigation_mobile_navigation.xml.flat",
+        "source": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\src\\main\\res\\navigation\\mobile_navigation.xml"
+    },
+    {
+        "merged": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_subdirectory_arrow_left_24.xml.flat",
+        "source": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\src\\main\\res\\drawable\\ic_baseline_subdirectory_arrow_left_24.xml"
+    },
+    {
+        "merged": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_icon_round.png.flat",
+        "source": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_icon_round.png"
+    },
+    {
+        "merged": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ad.jpg.flat",
+        "source": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\src\\main\\res\\drawable\\ad.jpg"
+    },
+    {
+        "merged": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_photo_camera_24.xml.flat",
+        "source": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\src\\main\\res\\drawable\\ic_baseline_photo_camera_24.xml"
+    },
+    {
+        "merged": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_qr_code_24.xml.flat",
+        "source": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\src\\main\\res\\drawable\\ic_baseline_qr_code_24.xml"
+    },
+    {
+        "merged": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_account.xml.flat",
+        "source": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\src\\main\\res\\layout\\activity_account.xml"
+    },
+    {
+        "merged": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_setting.xml.flat",
+        "source": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\src\\main\\res\\layout\\fragment_setting.xml"
+    },
+    {
+        "merged": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_icon_round.png.flat",
+        "source": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_icon_round.png"
+    },
+    {
+        "merged": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ag.jpg.flat",
+        "source": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\src\\main\\res\\drawable\\ag.jpg"
+    },
+    {
+        "merged": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_edt_email.png.flat",
+        "source": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\src\\main\\res\\drawable-v24\\ic_edt_email.png"
+    },
+    {
+        "merged": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_setting_round.png.flat",
+        "source": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_setting_round.png"
+    },
+    {
+        "merged": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_icon.png.flat",
+        "source": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_icon.png"
+    },
+    {
+        "merged": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_payment_40.xml.flat",
+        "source": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\src\\main\\res\\drawable\\ic_baseline_payment_40.xml"
+    },
+    {
+        "merged": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_pin_drop_24.xml.flat",
+        "source": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\src\\main\\res\\drawable\\ic_baseline_pin_drop_24.xml"
+    },
+    {
+        "merged": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_icon.png.flat",
+        "source": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_icon.png"
+    },
+    {
+        "merged": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ac.jpg.flat",
+        "source": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\src\\main\\res\\drawable\\ac.jpg"
+    },
+    {
+        "merged": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_setting.png.flat",
+        "source": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_setting.png"
+    },
+    {
+        "merged": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_notifications_black_24dp.xml.flat",
+        "source": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\src\\main\\res\\drawable\\ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_main.jpg.flat",
+        "source": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\src\\main\\res\\drawable-v24\\main.jpg"
+    },
+    {
+        "merged": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_setting_round.png.flat",
+        "source": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_setting_round.png"
+    },
+    {
+        "merged": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_help_24.xml.flat",
+        "source": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\src\\main\\res\\drawable\\ic_baseline_help_24.xml"
+    },
+    {
+        "merged": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_wallet.png.flat",
+        "source": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\src\\main\\res\\drawable-v24\\wallet.png"
+    },
+    {
+        "merged": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_icon.png.flat",
+        "source": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_icon.png"
+    },
+    {
+        "merged": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_setting_foreground.xml.flat",
+        "source": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\src\\main\\res\\drawable\\ic_setting_foreground.xml"
+    },
+    {
+        "merged": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_iconn.png.flat",
+        "source": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_iconn.png"
+    },
+    {
+        "merged": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_icon.png.flat",
+        "source": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_icon.png"
+    },
+    {
+        "merged": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_input_kode.xml.flat",
+        "source": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\src\\main\\res\\layout\\activity_input_kode.xml"
+    },
+    {
+        "merged": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ab.jpg.flat",
+        "source": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\src\\main\\res\\drawable\\ab.jpg"
+    },
+    {
+        "merged": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_mission.png.flat",
+        "source": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\src\\main\\res\\drawable-v24\\mission.png"
+    },
+    {
+        "merged": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_icon.xml.flat",
+        "source": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_icon.xml"
+    },
+    {
+        "merged": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home.xml.flat",
+        "source": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_notification_large.jpg.flat",
+        "source": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\src\\main\\res\\drawable\\ic_notification_large.jpg"
+    },
+    {
+        "merged": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\build\\intermediates\\res\\merged\\debug\\menu_bottom_nav_menu.xml.flat",
+        "source": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\src\\main\\res\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_pay.png.flat",
+        "source": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\src\\main\\res\\drawable-v24\\pay.png"
+    },
+    {
+        "merged": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_payment.xml.flat",
+        "source": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\src\\main\\res\\layout\\fragment_payment.xml"
+    },
+    {
+        "merged": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_setting_round.png.flat",
+        "source": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_setting_round.png"
+    },
+    {
+        "merged": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ai.jpg.flat",
+        "source": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\src\\main\\res\\drawable\\ai.jpg"
+    },
+    {
+        "merged": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_setting.png.flat",
+        "source": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_setting.png"
+    },
+    {
+        "merged": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_iconn.png.flat",
+        "source": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_iconn.png"
+    },
+    {
+        "merged": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_account_circle_24.xml.flat",
+        "source": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\src\\main\\res\\drawable\\ic_baseline_account_circle_24.xml"
+    },
+    {
+        "merged": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ae.jpg.flat",
+        "source": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\src\\main\\res\\drawable\\ae.jpg"
+    },
+    {
+        "merged": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_dashboard_24.xml.flat",
+        "source": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\src\\main\\res\\drawable\\ic_baseline_dashboard_24.xml"
+    },
+    {
+        "merged": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_setting_round.png.flat",
+        "source": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_setting_round.png"
+    },
+    {
+        "merged": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ah.jpg.flat",
+        "source": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\src\\main\\res\\drawable\\ah.jpg"
+    },
+    {
+        "merged": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_history_24.xml.flat",
+        "source": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\src\\main\\res\\drawable\\ic_baseline_history_24.xml"
+    },
+    {
+        "merged": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_payment.xml.flat",
+        "source": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\src\\main\\res\\layout\\activity_payment.xml"
+    },
+    {
+        "merged": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_setting.xml.flat",
+        "source": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_setting.xml"
+    },
+    {
+        "merged": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_account_circle_white.png.flat",
+        "source": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\src\\main\\res\\drawable-v24\\ic_account_circle_white.png"
+    },
+    {
+        "merged": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shoplogo.png.flat",
+        "source": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\src\\main\\res\\drawable\\shoplogo.png"
+    },
+    {
+        "merged": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_setting.png.flat",
+        "source": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_setting.png"
+    },
+    {
+        "merged": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_aj.jpeg.flat",
+        "source": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\src\\main\\res\\drawable\\aj.jpeg"
+    },
+    {
+        "merged": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_iconn.png.flat",
+        "source": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_iconn.png"
+    },
+    {
+        "merged": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_forget.xml.flat",
+        "source": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\src\\main\\res\\layout\\activity_forget.xml"
+    },
+    {
+        "merged": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_edt_name.png.flat",
+        "source": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\src\\main\\res\\drawable-v24\\ic_edt_name.png"
+    },
+    {
+        "merged": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_history.xml.flat",
+        "source": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\src\\main\\res\\layout\\fragment_history.xml"
+    },
+    {
+        "merged": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_settings_24.xml.flat",
+        "source": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\src\\main\\res\\drawable\\ic_baseline_settings_24.xml"
+    },
+    {
+        "merged": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_icon.png.flat",
+        "source": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_icon.png"
+    },
+    {
+        "merged": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash_screen.xml.flat",
+        "source": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\src\\main\\res\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_wall_4.jpg.flat",
+        "source": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\src\\main\\res\\drawable\\wall_4.jpg"
+    },
+    {
+        "merged": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_bg_gambar.xml.flat",
+        "source": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\src\\main\\res\\drawable-v24\\bg_gambar.xml"
+    },
+    {
+        "merged": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_wall_0.jpg.flat",
+        "source": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\src\\main\\res\\drawable-v24\\wall_0.jpg"
+    },
+    {
+        "merged": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_wall_1.jpg.flat",
+        "source": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\src\\main\\res\\drawable\\wall_1.jpg"
+    },
+    {
+        "merged": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_payment_24.xml.flat",
+        "source": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\src\\main\\res\\drawable\\ic_baseline_payment_24.xml"
+    },
+    {
+        "merged": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_setting.png.flat",
+        "source": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_setting.png"
+    },
+    {
+        "merged": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_transaksi.xml.flat",
+        "source": "E:\\Semester 4\\Fintech\\Responsi2\\fintech-responsi-master\\app\\src\\main\\res\\layout\\item_transaksi.xml"
+    }
+]
